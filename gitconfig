@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bene_nolte@me.com
+	name = Benedikt Nolte
